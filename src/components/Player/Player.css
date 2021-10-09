@@ -1,0 +1,13 @@
+.player-box{
+    padding: 10px;
+    margin: 10px;
+    background-color:rgb(58, 28, 59);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+.player-box img{
+    border-radius: 50%;
+}
+.button{
+    font-size: 18px;
+}

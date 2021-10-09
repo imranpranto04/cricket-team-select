@@ -1,0 +1,24 @@
+.players-container {
+  display: flex;
+  text-align: center;
+  /* height: 100vh;
+  width: 100%;
+  background-image: url(../../images/icc-banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center; */
+  /* background-blend-mode: soft-light; */
+}
+.players {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+  text-align: center;
+  width: 70%;
+  border-right: 1px solid gray;
+  margin: 20px;
+  padding: 5px;
+}
+.players-cart {
+  text-align: center;
+}
